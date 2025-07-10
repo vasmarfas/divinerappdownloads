@@ -21,6 +21,7 @@ string|efficiency|RWZmaWNpZW5jeQ==
 string|enter_hero_name_here|RW50ZXIgaGVybyBuYW1lIGhlcmU=
 string|enter_token_here|RW50ZXIgdG9rZW4gaGVyZQ==
 string|error|RXJyb3I=
+string|get_token_from_telegram_bot|VG8gZ2V0IGEgdG9rZW4sIGdvIHRvIEBEb3RhRGl2aW5lckJvdA==
 string|good_match_found|QW4gaW50ZXJlc3RpbmcgbWF0Y2ggaGFzIGJlZW4gZm91bmQh
 string|guide_link|aHR0cHM6Ly9kb3RhZGl2aW5lci5jb20vaW5kZXguaHRtbCNjb250ZW50MTYtNA==
 string|guide|R1VJREU=
@@ -38,7 +39,7 @@ string|register|UmVnaXN0ZXI=
 string|registration_has_been_completed_successfully|UmVnaXN0cmF0aW9uIGhhcyBiZWVuIGNvbXBsZXRlZCBzdWNjZXNzZnVsbHkh
 string|requesting_demo|UmVxdWVzdGluZyBkZW1vLi4=
 string|start_demo|U3RhcnQgZGVtbw==
-string|support_link|aHR0cHM6Ly90Lm1lL3N0ZW56b3JrYQ==
+string|support_link|aHR0cHM6Ly90Lm1lL0RvdGFEaXZpbmVyQm90
 string|support_stenzorka|R1VJREUgICAgIDwgLSAtIHwgLSAtID4gICAgICAgU3VwcG9ydA==
 string|support|U3VwcG9ydA==
 string|synergy|U3luZXJneQ==
